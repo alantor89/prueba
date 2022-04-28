@@ -1,0 +1,16 @@
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.exe
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.deps.json
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.runtimeconfig.json
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.runtimeconfig.dev.json
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.dll
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\bin\Debug\netcoreapp3.1\Codigos.pdb
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.csproj.AssemblyReference.cache
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.Form1.resources
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.csproj.GenerateResource.cache
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.AssemblyInfoInputs.cache
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.AssemblyInfo.cs
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.csproj.CoreCompileInputs.cache
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.dll
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.pdb
+C:\Users\EKS\Documents\alan\VS\Codigos\Codigos\obj\Debug\netcoreapp3.1\Codigos.genruntimeconfig.cache
